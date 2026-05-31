@@ -174,7 +174,3 @@ cv2.destroyAllWindows()
 6. The returned dictionary gives the complete inspection result and can be forwarded to a logging system, PLC, or pass/fail decision node.
 
 ---
-
-## Author
-
-Bachelor's final project — automated visual inspection of smart switches using classical computer vision (OpenCV).
