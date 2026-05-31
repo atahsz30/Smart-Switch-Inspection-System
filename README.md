@@ -159,7 +159,7 @@ cv2.destroyAllWindows()
 .
 ├── main.ipynb       # Main pipeline notebook
 ├── samp.jpg           # Reference template for switch localization
-└── tst.jpg/            # Test image
+└── tst.png/            # Test image
 ```
 
 ---
